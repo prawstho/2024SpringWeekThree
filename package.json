@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "date-fns": "^3.6.0",
+    "uuid": "^9.0.1",
     "validator": "^13.12.0"
   }
 }
